@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 
 def send_mail(content, email):
     msg_from = '1724647576@qq.com'  # 发送方邮箱
-    passwd = 'ezdgvskeyvpvdbdh'  # 填入发送方邮箱的授权码
+    passwd = 'ezdgvsxxxxyvpvdbdh'  # 填入发送方邮箱的授权码
     msg_to = email
     subject = "今日任务"
     msg = MIMEText(content)
