@@ -12,7 +12,7 @@
 
 fork + star 拷贝一份到自己github账号的respository下，star很重要
 
-![image-20220916170535907](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916170535907.png)
+![image-20220916170535907](README.assets/image-20220916170535907.png)
 
 
 
@@ -22,19 +22,19 @@ fork + star 拷贝一份到自己github账号的respository下，star很重要
 
 修改main.py中的信息
 
-![image-20220916170926583](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916170926583.png)
+![image-20220916170926583](README.assets/image-20220916170926583.png)
 
 点进去，在这里进行修改
 
-![image-20220916171010473](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916171010473.png)
+![image-20220916171010473](README.assets/image-20220916171010473.png)
 
 
 
 修改内容如下：
 
-![image-20220916171349454](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916171349454.png)
+![image-20220916171349454](README.assets/image-20220916171349454.png)
 
-![image-20220916171507051](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916171507051.png)
+![image-20220916171507051](README.assets/image-20220916171507051.png)
 
 
 
@@ -42,7 +42,7 @@ fork + star 拷贝一份到自己github账号的respository下，star很重要
 
 如果你通过SMTP方式群发邮件，则需要邮箱打开SMTP服务，且现在邮箱大多为邮箱客户端设置了独立密码或授权码。登录QQ邮箱，在设置里有个第三方服务，开启SMTP服务，验证后可以生成授权码。
 
-![image-20220916172340810](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916172340810.png)
+![image-20220916172340810](README.assets/image-20220916172340810.png)
 
 
 
@@ -52,9 +52,9 @@ fork + star 拷贝一份到自己github账号的respository下，star很重要
 
 点击Action，使用github长期服务进行挂载
 
-![image-20220916170704469](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916170704469.png)
+![image-20220916170704469](README.assets/image-20220916170704469.png)
 
-![image-20220916170749107](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916170749107.png)
+![image-20220916170749107](README.assets/image-20220916170749107.png)
 
 开启workflows，就可以每天定时运行啦！
 
@@ -66,7 +66,7 @@ fork + star 拷贝一份到自己github账号的respository下，star很重要
 
 在[OnTimeAction](https://github.com/SmartPycg/OnTimeAction)/[.github](https://github.com/SmartPycg/OnTimeAction/tree/master/.github)/[workflows](https://github.com/SmartPycg/OnTimeAction/tree/master/.github/workflows)/**github-actions-demo.yml** 目录下修改cron时间，有点儿类似正则表达式
 
-![image-20220916172805269](D:\Users\linli\PycharmProjects\OnTimeAction\OnTimeAction.assets\image-20220916172805269.png)
+![image-20220916172805269](README.assets/image-20220916172805269.png)
 
 可以参考下文进行修改：
 
